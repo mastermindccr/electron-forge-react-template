@@ -1,0 +1,5 @@
+- change port
+    - change `port` and `loggerPort` defined in `forge.config.js`
+- add pages
+    - add new page in `src/pages/`
+    - add new route in `src/app.jsx`
